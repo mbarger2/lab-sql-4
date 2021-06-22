@@ -12,7 +12,7 @@
 
 -- Get the 10 films with the longest title.
 
--- Get 10 the longest films.
+-- Get the 10 longest films.
 
 -- How many films include Behind the Scenes content?
 
